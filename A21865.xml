@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation forbidding the transportation and carriage of all manner of graine and beere out of the realme, to endure vntill the next Michaelmas hereafter following. The viij. of October, 1590</title>
+            <title>Proclamations. 1590-10-08</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21865</idno>
+            <idno type="STC">STC 8197</idno>
+            <idno type="STC">ESTC S115433</idno>
+            <idno type="EEBO-CITATION">99850652</idno>
+            <idno type="PROQUEST">99850652</idno>
+            <idno type="VID">15873</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15873)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation forbidding the transportation and carriage of all manner of graine and beere out of the realme, to endure vntill the next Michaelmas hereafter following. The viij. of October, 1590</title>
+                  <title>Proclamations. 1590-10-08</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grain trade --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Beer --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15873:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation forbidding the tranſportation and carriage of all manner of graine and Beere out of the Realme, to endure vntill the next Michaelmas hereafter follow<g ref="char:EOLhyphen"/>ing.</head>
+            <opener>
+               <dateline>
+                  <date>The viij. of October, 1590.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maieſtie vnderſtanding the likelihood of great de arth of all man<g ref="char:EOLhyphen"/>ner of graine, to follow this preſent yeere within her Realme, if good foreſight be not had to reſtraine the carying out of all ſortes of graine to forreine partes, where it is knowen there is ſcarcity, and thereby occaſion giuen for priuate lu<g ref="char:EOLhyphen"/>cre, to carry into forreine parts, ſuch kinds of graine, as (God be thanked) there is ſufficient thereof in this Realme for her owne people and ſubiects: hath by aduiſe of her Counſell, determined to prouide remedie for ſuch inconueni<g ref="char:EOLhyphen"/>ence. And therefore her Maieſtie doeth moſt ſtraitly charge and command, that no perſons of what condition ſoeuer they be, ſhall carrie or cauſe to be caried out of the Realme, or bargaine, graunt or couenant with any perſon, to the intent to be caried out of the Realme, any Wheate, Rye, Barley, Malte, Beanes, Otes, or Peaſe, vpon paine of impriſonment during their liues, and ſuch fine, as ſhalbe aſſeſſed by her Maieſties Counſel, vpon their lands or goods. And that all Owners and maſters of Ships, and all mariners that ſhalbe priuy to the lading and carying of any ſuch graine into any parts out of the Realme, ſhal alſo be committed to priſon for one whole yeere, and the ſhip that ſhalbe laden belonging to any ow<g ref="char:EOLhyphen"/>ner being priuy thereto, to be arreſted, and not to be ſuffred to make ſayle, during one whole yere following. And becauſe her Maieſty vnderſtandeth, that there is great abuſe in carying out of Beere, by colour of certaine licen<g ref="char:EOLhyphen"/>ces, and in the name of victualling Beere, or fowring Beere: Her Maieſtie commandeth and willeth the Lord Treaſorer of England, to ſtay the carriage of any maner of Beere out of the Realme, by vertue of any licences re<g ref="char:EOLhyphen"/>mayning yet in force, which her Highnes pleaſure is, to be ſuſpended vntil Michaelmas next nowe following, And that no Beere be either for victualling of ſhips to be occupied in trade of marchandize, or any ſhippes law<g ref="char:EOLhyphen"/>fully ſet forth as ſhippes of warre, or for a kinde of victualling of ſtrangers ſhips, in the name of fowring Beere, ſhipped to the caried, but that the ſame be limited and rated in euery port, according to ſuch good orders as haue bene of late yeeres preſcribed for the ſame in the port of London, and as ſhalbe further preſcribed to the Officers of euery port within the Realme, by the Lord Treaſorer of England. And yet neuertheleſſe, her Maieſtie thin<g ref="char:EOLhyphen"/>keth it meete, that ſuch reaſonable quantitie of wheate for bread corne, and Beere, ſhalbe caried out of the vſual ports of her Realme, into the lowe countries, for the ſuſtentation of her ſouldiers ſeruing in the ſame low coun<g ref="char:EOLhyphen"/>treies, according to ſuch a conuenient proportion as hath beene of late limited to ſuch perſons as haue or ſhall haue the charge thereof, and not otherwiſe. And to the intent this her Maieſties ſtraight commandement may take the better effect, Her Maieſtie hath commanded her priuie Counſell to make choiſe of certaine ſpeciall tru<g ref="char:EOLhyphen"/>ſtie perſons in all the Maritime Counties of her Realme, where portes are meete to lade any ſuch graine, and them by ſpecial letters to authorize and charge, to haue regard from time to time, to all manner of ſhipping that ſhall lade any graine to tranſport from port to port, that by colour thereof no graine be laden, but vpon bondes firſt giuen with good ſureties, to be certified into her Exchequer, that the ſame ſhall not paſſe out of the Realme, And to adde to the ſame bonds ſuch other needfull conditions as ſhall ſeeme meete to reſtraine the ſame, the bet<g ref="char:EOLhyphen"/>ter thereby to performe the intent of this her Maieſties commandement, which her Highneſſe expreſſe pleaſure is ſhall be and continue in force, vntill Michaelmas next comming after the publication hereof.</p>
+            <closer>
+               <dateline>Giuen at her Maieſties Caſtle of Windſor <date>the eight day of October 1590, in the two and thirtieth yeere of her Maieſties raigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of Chriſtopher Barker, <hi>Printer to the Queenes moſt excellent Maieſtie.</hi> 1590.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
